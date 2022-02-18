@@ -1,0 +1,42 @@
+:root{
+    --text: rgb(15, 59, 59);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(53, 53, 53);
+}
+.container{
+    padding: 3rem;
+    min-height: 90vh; 
+    margin: 1vh auto;
+    box-shadow: inset 4px 4px 2px var(--text),
+           inset -4px -4px 2px var(--text);
+    border-radius: 8px;
+}
+.tittle{
+    margin: 2rem;
+    font-size: 4rem;
+    font-weight: bolder;
+    opacity: 0.9;
+    color: aqua;
+}
+.drum{
+    display: flex;
+    padding: .25rem;
+    margin: 1vh auto;
+    min-height: 90vh; 
+    height: 20rem;
+    background:rgb(53, 53, 53);
+    font-size: 5rem;
+    font-weight: bold;
+    color: rgb(44, 117, 185);
+    border: none;
+    outline: none;
+
+}

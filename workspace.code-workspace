@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Drum-Kit Project",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../../../Downloads/sounds"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum-Kit Project"
+	}
+}
